@@ -4,7 +4,7 @@ import java.io.Externalizable;
 import java.io.IOException;
 import java.io.ObjectInput;
 import java.io.ObjectOutput;
-
+//extern
 public class Pudge implements Externalizable {
 	private String name;
 	private int strikePower;
