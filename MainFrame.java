@@ -52,7 +52,7 @@ public class MainFrame extends JFrame{
 	private Pudge pudge;
 	private Pudge newPudge;
     private JLabel BasePudge = new JLabel("");
-	
+	//
 	public  MainFrame() {
 		super("Pudge International");
 		final JFrame frame = new JFrame("Demo buttons");
@@ -93,7 +93,7 @@ public class MainFrame extends JFrame{
         frame.setVisible(true);
         initListener();
 	}
-		
+	//listeners	
 	private void initListener() {
 		Fr.addActionListener(e->{
 				String delimiter = " ";
