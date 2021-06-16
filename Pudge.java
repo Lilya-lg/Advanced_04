@@ -15,7 +15,7 @@ public class Pudge implements Externalizable {
 	//private int totalIntel;
 	//private int totalAgility;
 	//private int totalStrength;
-
+	//
 	public Pudge() {
 		
 	}
