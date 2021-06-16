@@ -93,7 +93,7 @@ public class MainFrame extends JFrame{
         frame.setVisible(true);
         initListener();
 	}
-		
+	//listeners	
 	private void initListener() {
 		Fr.addActionListener(e->{
 				String delimiter = " ";
