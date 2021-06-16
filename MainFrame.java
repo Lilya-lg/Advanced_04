@@ -52,7 +52,7 @@ public class MainFrame extends JFrame{
 	private Pudge pudge;
 	private Pudge newPudge;
     private JLabel BasePudge = new JLabel("");
-	
+	//
 	public  MainFrame() {
 		super("Pudge International");
 		final JFrame frame = new JFrame("Demo buttons");
